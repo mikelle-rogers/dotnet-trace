@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\mirogers\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mirogers\\source\\repos\\diagnostics\\artifacts\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-    ]
-  }
-}
